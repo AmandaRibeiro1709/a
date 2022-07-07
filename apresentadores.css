@@ -1,7 +1,9 @@
 body {
     color: white;
-    background-color: black;
+
     font-family: Arial, Helvetica, sans-serif;
+
+    background: black url('img/logo.png') left top no-repeat fixed;
 }
 ul{
     display: flex;

@@ -1,7 +1,7 @@
 body {
     color: white;
-    background-color: black;
     font-family: Arial, Helvetica, sans-serif;
+    background: black url('img/logo.png') left top no-repeat fixed;
 }
 ul{
     display: flex;
@@ -9,6 +9,8 @@ ul{
     list-style-type: none;
     align-items: center;
     padding: 16px;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 a{
